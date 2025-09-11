@@ -17,10 +17,7 @@
           <mxGeometry x="490" y="220" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DLRUq-UUy1QN-dynS7-V-5" value="漂移检测与更新" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="220" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DLRUq-UUy1QN-dynS7-V-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DLRUq-UUy1QN-dynS7-V-3" target="DLRUq-UUy1QN-dynS7-V-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="630" y="220" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
