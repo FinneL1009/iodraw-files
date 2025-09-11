@@ -8,7 +8,7 @@
           <mxGeometry x="30" y="220" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DLRUq-UUy1QN-dynS7-V-2" value="滑动窗口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="230" width="90" height="30" as="geometry" />
+          <mxGeometry x="180" y="220" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
