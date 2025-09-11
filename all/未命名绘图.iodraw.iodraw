@@ -14,7 +14,10 @@
           <mxGeometry x="340" y="220" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DLRUq-UUy1QN-dynS7-V-4" value="标签相关性修正" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="250" width="90" height="30" as="geometry" />
+          <mxGeometry x="500" y="220" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DLRUq-UUy1QN-dynS7-V-5" value="漂移检测与更新" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="260" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
