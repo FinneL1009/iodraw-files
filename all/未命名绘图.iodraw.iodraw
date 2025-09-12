@@ -58,7 +58,7 @@
         <mxCell id="DLRUq-UUy1QN-dynS7-V-29" value="研究主题" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="41" y="167" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DLRUq-UUy1QN-dynS7-V-30" value="研究主题" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DLRUq-UUy1QN-dynS7-V-30" value="研究问题" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="311" y="167" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
