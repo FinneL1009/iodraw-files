@@ -34,11 +34,8 @@
         <mxCell id="DLRUq-UUy1QN-dynS7-V-15" value="多标签数据流分类中的概念漂移问题" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="363" y="211.5" width="136" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DLRUq-UUy1QN-dynS7-V-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DLRUq-UUy1QN-dynS7-V-18" target="DLRUq-UUy1QN-dynS7-V-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="DLRUq-UUy1QN-dynS7-V-18" value="" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="653" y="206" width="226" height="237" as="geometry" />
+          <mxGeometry x="592" y="167" width="226" height="237" as="geometry" />
         </mxCell>
         <mxCell id="DLRUq-UUy1QN-dynS7-V-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DLRUq-UUy1QN-dynS7-V-11" target="DLRUq-UUy1QN-dynS7-V-16">
           <mxGeometry relative="1" as="geometry">
@@ -50,7 +47,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DLRUq-UUy1QN-dynS7-V-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DLRUq-UUy1QN-dynS7-V-16" target="DLRUq-UUy1QN-dynS7-V-18">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="546" y="340" />
+              <mxPoint x="546" y="283" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="DLRUq-UUy1QN-dynS7-V-16" value="建模并利用标签相关性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="364" y="310" width="135" height="60" as="geometry" />
