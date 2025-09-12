@@ -8,7 +8,7 @@
           <mxGeometry x="80" y="204" width="164" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DLRUq-UUy1QN-dynS7-V-12" value="研究方法：基于核极限学习机（KELM）的集成分类方法" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="91" y="315" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="314" width="161" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
