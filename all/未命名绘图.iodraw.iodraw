@@ -55,6 +55,9 @@
         <mxCell id="DLRUq-UUy1QN-dynS7-V-19" value="基于核极限学习机（KELM）的集成分类方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="616" y="256.5" width="164" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DLRUq-UUy1QN-dynS7-V-29" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="382" y="283" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
