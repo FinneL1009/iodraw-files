@@ -61,8 +61,8 @@
         <mxCell id="DLRUq-UUy1QN-dynS7-V-30" value="研究问题" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="311" y="167" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DLRUq-UUy1QN-dynS7-V-32" value="研究问题" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="321" y="177" width="60" height="30" as="geometry" />
+        <mxCell id="DLRUq-UUy1QN-dynS7-V-32" value="具体方法和技术" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="592" y="167" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
