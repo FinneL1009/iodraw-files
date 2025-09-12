@@ -25,7 +25,7 @@
         <mxCell id="DLRUq-UUy1QN-dynS7-V-16" value="建模并利用标签相关性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="364" y="310" width="135" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DLRUq-UUy1QN-dynS7-V-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DLRUq-UUy1QN-dynS7-V-19" value="基于核极限学习机（KELM）的集成分类方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="461" y="447" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
