@@ -8,7 +8,7 @@
           <mxGeometry x="41" y="161" width="242" height="238" as="geometry" />
         </mxCell>
         <mxCell id="DLRUq-UUy1QN-dynS7-V-11" value="研究目标：&lt;div&gt;（1）解决多标签数据流分类中的概念漂移问题&lt;/div&gt;&lt;div&gt;（2）建模并利用标签相关性&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="204" width="162" height="60" as="geometry" />
+          <mxGeometry x="80" y="204" width="162" height="75" as="geometry" />
         </mxCell>
         <mxCell id="DLRUq-UUy1QN-dynS7-V-12" value="研究方法：基于核极限学习机（KELM）的集成分类方法" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="80" y="314" width="164" height="60" as="geometry" />
