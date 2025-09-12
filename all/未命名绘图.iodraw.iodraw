@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DLRUq-UUy1QN-dynS7-V-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="352" y="268" width="120" height="60" as="geometry" />
+        <mxCell id="DLRUq-UUy1QN-dynS7-V-11" value="研究目标：（1）解决多标签数据流分类中的概念漂移问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="204" width="164" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
