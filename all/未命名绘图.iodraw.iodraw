@@ -10,8 +10,8 @@
         <mxCell id="DLRUq-UUy1QN-dynS7-V-12" value="研究方法：基于核极限学习机（KELM）的集成分类方法" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="80" y="314" width="164" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DLRUq-UUy1QN-dynS7-V-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="42" y="161" width="242" height="238" as="geometry" />
+        <mxCell id="DLRUq-UUy1QN-dynS7-V-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="34" y="159" width="242" height="238" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
