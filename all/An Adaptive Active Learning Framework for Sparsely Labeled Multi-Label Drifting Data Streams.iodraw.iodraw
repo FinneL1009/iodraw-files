@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q7JbUDJvwVy6ePvgwip7-31" value="自适应滑动窗口：动态调整大小，保留新样本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="258" y="-282" width="120" height="60" as="geometry" />
+          <mxGeometry x="289" y="-282" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q7JbUDJvwVy6ePvgwip7-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q7JbUDJvwVy6ePvgwip7-32" target="Q7JbUDJvwVy6ePvgwip7-33">
           <mxGeometry relative="1" as="geometry" />
