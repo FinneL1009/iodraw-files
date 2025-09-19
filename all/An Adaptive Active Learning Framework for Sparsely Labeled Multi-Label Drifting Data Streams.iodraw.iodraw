@@ -32,25 +32,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q7JbUDJvwVy6ePvgwip7-30" value="惩罚机制：清理误导样本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="395" y="-285" width="120" height="60" as="geometry" />
+          <mxGeometry x="498" y="-282" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q7JbUDJvwVy6ePvgwip7-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q7JbUDJvwVy6ePvgwip7-31" target="Q7JbUDJvwVy6ePvgwip7-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q7JbUDJvwVy6ePvgwip7-31" value="自适应滑动窗口：动态调整大小，保留新样本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="-288" width="120" height="60" as="geometry" />
+          <mxGeometry x="258" y="-282" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q7JbUDJvwVy6ePvgwip7-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q7JbUDJvwVy6ePvgwip7-32" target="Q7JbUDJvwVy6ePvgwip7-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q7JbUDJvwVy6ePvgwip7-32" value="漂移检测ADWIN：监控分布变化，触发更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="75" y="-285" width="120" height="60" as="geometry" />
+          <mxGeometry x="79" y="-282" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q7JbUDJvwVy6ePvgwip7-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q7JbUDJvwVy6ePvgwip7-33" target="Q7JbUDJvwVy6ePvgwip7-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q7JbUDJvwVy6ePvgwip7-33" value="输出预测结果：多标签预测预测集合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-101" y="-282" width="120" height="60" as="geometry" />
+          <mxGeometry x="-109" y="-282" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
