@@ -16,8 +16,8 @@
         <mxCell id="Q7JbUDJvwVy6ePvgwip7-29" value="主动学习AL-SS:选有价值样本请求标注" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="245" y="-357" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q7JbUDJvwVy6ePvgwip7-30" value="数据流输入：实例按照时间顺序到达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-199" y="-314" width="120" height="60" as="geometry" />
+        <mxCell id="Q7JbUDJvwVy6ePvgwip7-30" value="惩罚机制：清理误导样本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-95" y="-236" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
