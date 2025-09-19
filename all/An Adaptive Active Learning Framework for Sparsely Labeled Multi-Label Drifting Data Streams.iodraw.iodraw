@@ -25,6 +25,9 @@
         <mxCell id="Q7JbUDJvwVy6ePvgwip7-10" value="丢弃该样本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-53" y="328" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Q7JbUDJvwVy6ePvgwip7-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="187" y="436" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
