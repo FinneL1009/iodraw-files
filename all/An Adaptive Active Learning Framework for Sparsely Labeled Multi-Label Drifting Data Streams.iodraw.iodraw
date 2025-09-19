@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q7JbUDJvwVy6ePvgwip7-27" value="问题转换BR：多标签拆分成多个二分类任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="45" y="-413" width="120" height="60" as="geometry" />
+          <mxGeometry x="79" y="-416" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q7JbUDJvwVy6ePvgwip7-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q7JbUDJvwVy6ePvgwip7-28" target="Q7JbUDJvwVy6ePvgwip7-29">
           <mxGeometry relative="1" as="geometry" />
