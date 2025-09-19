@@ -7,6 +7,12 @@
         <mxCell id="Q7JbUDJvwVy6ePvgwip7-26" value="数据流输入：实例按照时间顺序到达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-239" y="-354" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Q7JbUDJvwVy6ePvgwip7-27" value="问题转换BR：多标签拆分成多个二分类任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-85" y="-354" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7JbUDJvwVy6ePvgwip7-28" value="数据流输入：实例按照时间顺序到达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-219" y="-334" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
