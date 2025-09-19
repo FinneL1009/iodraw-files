@@ -13,7 +13,7 @@
         <mxCell id="Q7JbUDJvwVy6ePvgwip7-28" value="分类器SAMkNN+：每个标签用自适应kNN预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="88" y="-352" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q7JbUDJvwVy6ePvgwip7-29" value="数据流输入：实例按照时间顺序到达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q7JbUDJvwVy6ePvgwip7-29" value="主动学习AL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="245" y="-357" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
