@@ -20,13 +20,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q7JbUDJvwVy6ePvgwip7-28" value="分类器SAMkNN+：每个标签用自适应kNN预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="218" y="-411" width="120" height="60" as="geometry" />
+          <mxGeometry x="289" y="-416" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q7JbUDJvwVy6ePvgwip7-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q7JbUDJvwVy6ePvgwip7-29" target="Q7JbUDJvwVy6ePvgwip7-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q7JbUDJvwVy6ePvgwip7-29" value="主动学习AL-SS:选有价值样本请求标注" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="-416" width="120" height="60" as="geometry" />
+          <mxGeometry x="498" y="-416" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q7JbUDJvwVy6ePvgwip7-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q7JbUDJvwVy6ePvgwip7-30" target="Q7JbUDJvwVy6ePvgwip7-31">
           <mxGeometry relative="1" as="geometry" />
@@ -51,6 +51,9 @@
         </mxCell>
         <mxCell id="Q7JbUDJvwVy6ePvgwip7-33" value="输出预测结果：多标签预测预测集合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-131" y="-282" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7JbUDJvwVy6ePvgwip7-42" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="-291" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
