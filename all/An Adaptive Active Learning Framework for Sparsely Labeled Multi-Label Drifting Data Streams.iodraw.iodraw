@@ -52,8 +52,8 @@
         <mxCell id="Q7JbUDJvwVy6ePvgwip7-33" value="输出预测结果：多标签预测预测集合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-131" y="-282" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q7JbUDJvwVy6ePvgwip7-42" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="215" y="-291" width="60" height="30" as="geometry" />
+        <mxCell id="Q7JbUDJvwVy6ePvgwip7-42" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;闭环&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-68" y="-327" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
