@@ -26,7 +26,7 @@
           <mxGeometry x="440" y="383" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-9" value="漂移数据流多标签在线主动学习（MLALDDS）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="693" y="398" width="120" height="60" as="geometry" />
+          <mxGeometry x="644" y="383" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-11" value="MLALDDS 的类别标签预测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="644" y="215" width="120" height="60" as="geometry" />
