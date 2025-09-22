@@ -39,8 +39,14 @@
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-5" value="概念漂移" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="231" y="349" width="78" height="52" as="geometry" />
         </mxCell>
+        <mxCell id="M1K2fpqMYqYAqmjZvtI3-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M1K2fpqMYqYAqmjZvtI3-6" target="M1K2fpqMYqYAqmjZvtI3-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-6" value="有限标注预算下有效选择样本的问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="299" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1K2fpqMYqYAqmjZvtI3-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M1K2fpqMYqYAqmjZvtI3-7" target="M1K2fpqMYqYAqmjZvtI3-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-7" value="多标签数据流中标签的预测和增量学习" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="383" width="120" height="60" as="geometry" />
@@ -53,6 +59,9 @@
         </mxCell>
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-12" value="选择性取样策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="642" y="299" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1K2fpqMYqYAqmjZvtI3-23" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="363" y="348" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
