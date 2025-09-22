@@ -5,19 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-1" value="研究方法：在线主动学习" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="159" y="388" width="120" height="60" as="geometry" />
+          <mxGeometry x="117" y="385" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-2" value="研究目标：构建漂移数据流的多标签在线主动学习框架（MLALDDS）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="145" y="253" width="120" height="60" as="geometry" />
+          <mxGeometry x="117" y="229" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="163" y="118" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-4" value="稀疏标注" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="178" width="120" height="80" as="geometry" />
+          <mxGeometry x="401" y="219" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-5" value="概念漂移" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="361" y="340" width="120" height="80" as="geometry" />
+          <mxGeometry x="383" y="371" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
