@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jhA8R-3isMGwLiwFFNa2-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jhA8R-3isMGwLiwFFNa2-1" value="" style="digraph G {&#xa;    rankdir=LR;&#xa;    node [shape=box];&#xa;&#xa;    Start [label=&quot;Start&quot;];&#xa;    Observe [label=&quot;Observe new multi-label data&quot;];&#xa;    Predict [label=&quot;Predict multi-label target value&quot;];&#xa;    DriftDetection [label=&quot;Concept Drift Detection\n(Reset Model if drift)&quot;];&#xa;    CheckUsefulness [label=&quot;Is it Useful?&quot;];&#xa;    RequestLabel [label=&quot;Ask for label (Query Label)&quot;];&#xa;    UpdateModel [label=&quot;Update multi-label model&quot;];&#xa;    Discard [label=&quot;Discard Observation&quot;];&#xa;    End [label=&quot;End&quot;];&#xa;&#xa;    Start -&gt; Observe;&#xa;    Observe -&gt; Predict;&#xa;    Predict -&gt; DriftDetection;&#xa;    DriftDetection -&gt; CheckUsefulness;&#xa;    CheckUsefulness -&gt; RequestLabel [label=&quot;Yes&quot;];&#xa;    CheckUsefulness -&gt; Discard [label=&quot;No&quot;];&#xa;    RequestLabel -&gt; UpdateModel;&#xa;    UpdateModel -&gt; End;&#xa;    DriftDetection -&gt; UpdateModel [label=&quot;No drift&quot;];&#xa;}" vertex="1" parent="1">
           <mxGeometry x="352" y="268" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
