@@ -29,6 +29,9 @@
           <mxGeometry x="693" y="398" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-11" value="MLALDDS 的类别标签预测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="701" y="199" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1K2fpqMYqYAqmjZvtI3-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="363" y="348" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
