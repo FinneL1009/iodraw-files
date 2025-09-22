@@ -69,8 +69,8 @@
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-12" value="选择性取样策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="642" y="299" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M1K2fpqMYqYAqmjZvtI3-34" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="392" y="362" width="60" height="30" as="geometry" />
+        <mxCell id="M1K2fpqMYqYAqmjZvtI3-34" value="研究主题" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="34" y="183" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
