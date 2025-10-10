@@ -60,7 +60,7 @@
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-7" value="保持数据分布用于漂移检测" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="383" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M1K2fpqMYqYAqmjZvtI3-9" value="漂移数据流多标签在线主动学习（MLALDDS）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="M1K2fpqMYqYAqmjZvtI3-9" value="Split 分裂策略" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="644" y="383" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-11" value="资源标注动态分配" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
