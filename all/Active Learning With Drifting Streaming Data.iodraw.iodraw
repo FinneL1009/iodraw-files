@@ -8,7 +8,7 @@
           <mxGeometry x="608" y="183" width="174" height="321" as="geometry" />
         </mxCell>
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-32" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="226" y="188" width="368" height="320" as="geometry" />
+          <mxGeometry x="226" y="184" width="368" height="320" as="geometry" />
         </mxCell>
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-27" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="34" y="183" width="182" height="319" as="geometry" />
@@ -27,12 +27,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="M1K2fpqMYqYAqmjZvtI3-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="M1K2fpqMYqYAqmjZvtI3-2" target="M1K2fpqMYqYAqmjZvtI3-7" edge="1">
+        <mxCell id="M1K2fpqMYqYAqmjZvtI3-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="M1K2fpqMYqYAqmjZvtI3-2" target="M1K2fpqMYqYAqmjZvtI3-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="267" y="329" />
-              <mxPoint x="267" y="431" />
-              <mxPoint x="371" y="431" />
+              <mxPoint x="267" y="428" />
+              <mxPoint x="440" y="428" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -63,7 +63,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-7" value="保持数据分布用于漂移检测" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="371" y="383" width="120" height="60" as="geometry" />
+          <mxGeometry x="467" y="388" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-9" value="Split 分裂策略" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="644" y="383" width="120" height="60" as="geometry" />
