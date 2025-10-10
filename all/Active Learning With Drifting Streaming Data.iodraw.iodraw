@@ -28,7 +28,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="M1K2fpqMYqYAqmjZvtI3-2" target="M1K2fpqMYqYAqmjZvtI3-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="267" y="329" />
+              <mxPoint x="267" y="428" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="M1K2fpqMYqYAqmjZvtI3-2" target="M1K2fpqMYqYAqmjZvtI3-3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -45,19 +50,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-3" value="长期控制标注预算" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="215" width="120" height="60" as="geometry" />
+          <mxGeometry x="371" y="215" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="M1K2fpqMYqYAqmjZvtI3-6" target="M1K2fpqMYqYAqmjZvtI3-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-6" value="不遗留空间中任意区域的漂移" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="299" width="120" height="60" as="geometry" />
+          <mxGeometry x="371" y="299" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="M1K2fpqMYqYAqmjZvtI3-7" target="M1K2fpqMYqYAqmjZvtI3-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-7" value="保持数据分布用于漂移检测" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="383" width="120" height="60" as="geometry" />
+          <mxGeometry x="371" y="383" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-9" value="Split 分裂策略" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="644" y="383" width="120" height="60" as="geometry" />
