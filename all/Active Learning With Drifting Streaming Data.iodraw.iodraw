@@ -44,7 +44,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="M1K2fpqMYqYAqmjZvtI3-2" value="研究目标：构建漂移数据流的多标签在线主动学习框架（MLALDDS）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="M1K2fpqMYqYAqmjZvtI3-2" value="研究目标：" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="67" y="299" width="142" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="M1K2fpqMYqYAqmjZvtI3-3" target="M1K2fpqMYqYAqmjZvtI3-11" edge="1">
