@@ -71,7 +71,7 @@
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-11" value="可变不确定性策略" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="644" y="215" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M1K2fpqMYqYAqmjZvtI3-12" value="Uncertainty Strategy With Randomization（）随机化的不确定性策略" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="M1K2fpqMYqYAqmjZvtI3-12" value="Uncertainty Strategy With Randomization（随机化的不确定性策略）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="642" y="299" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-34" value="研究主题" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
