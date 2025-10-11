@@ -50,6 +50,9 @@
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-3" value="时间动态性问题" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="372" y="215" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_DLmZ5Hb72gRYXb6KxRc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M1K2fpqMYqYAqmjZvtI3-6" target="M1K2fpqMYqYAqmjZvtI3-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-6" value="空间覆盖性问题" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="372" y="299" width="120" height="60" as="geometry" />
         </mxCell>
