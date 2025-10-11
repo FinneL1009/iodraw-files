@@ -10,7 +10,7 @@
         <mxCell id="BKnva3fz5HA5Kn8jo8XM-1" value="框架设计准则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="77" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BKnva3fz5HA5Kn8jo8XM-2" value="框架设计准则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BKnva3fz5HA5Kn8jo8XM-2" value="在线学习主循环" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="217" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
