@@ -77,6 +77,12 @@
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-36" value="具体方法和技术" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="608" y="185" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_DLmZ5Hb72gRYXb6KxRc-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="523" y="312" as="sourcePoint" />
+            <mxPoint x="573" y="262" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
