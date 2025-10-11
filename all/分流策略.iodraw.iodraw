@@ -11,7 +11,7 @@
           <mxGeometry x="96" y="260" width="60.83" height="63" as="geometry" />
         </mxCell>
         <mxCell id="XMjeunAe4noOZa5-QdrL-3" value="随机路" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;align=center;" vertex="1" parent="1">
-          <mxGeometry x="330.005" y="192" width="120" height="60" as="geometry" />
+          <mxGeometry x="330.01" y="192" width="120" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
