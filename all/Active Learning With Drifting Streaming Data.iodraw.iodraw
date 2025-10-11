@@ -56,7 +56,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-3" value="时间动态性问题" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="215" width="120" height="60" as="geometry" />
+          <mxGeometry x="372" y="215" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="M1K2fpqMYqYAqmjZvtI3-6" target="M1K2fpqMYqYAqmjZvtI3-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
