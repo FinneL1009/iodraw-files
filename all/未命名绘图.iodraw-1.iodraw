@@ -20,10 +20,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BKnva3fz5HA5Kn8jo8XM-4" value="预算监控与估计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="357" width="120" height="60" as="geometry" />
+          <mxGeometry x="471" y="204" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BKnva3fz5HA5Kn8jo8XM-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BKnva3fz5HA5Kn8jo8XM-6" target="BKnva3fz5HA5Kn8jo8XM-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BKnva3fz5HA5Kn8jo8XM-6" value="漂移检测与模型管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="354" y="497" width="120" height="60" as="geometry" />
+          <mxGeometry x="672" y="204" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BKnva3fz5HA5Kn8jo8XM-8" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="672" y="344" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
