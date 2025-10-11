@@ -8,7 +8,7 @@
           <mxGeometry x="630" y="550" width="174" height="321" as="geometry" />
         </mxCell>
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-32" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="248" y="566" width="368" height="320" as="geometry" />
+          <mxGeometry x="226" y="185" width="368" height="320" as="geometry" />
         </mxCell>
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-27" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="37" y="184" width="182" height="319" as="geometry" />
@@ -46,11 +46,6 @@
         </mxCell>
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-2" value="研究目标：构建在漂移环境下运行的主动学习框架，使模型在有限标注预算下实现长期自适应学习" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="67" y="299" width="142" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_DLmZ5Hb72gRYXb6KxRc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="M1K2fpqMYqYAqmjZvtI3-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="511" y="295" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-3" value="时间动态性问题" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="372" y="215" width="120" height="60" as="geometry" />
