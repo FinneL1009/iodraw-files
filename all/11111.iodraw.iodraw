@@ -1,0 +1,95 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="BuXjXjrt7jR5VdxXlCqo">
+    <mxGraphModel dx="1042" dy="573" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="M1K2fpqMYqYAqmjZvtI3-33" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
+          <mxGeometry x="603" y="185" width="174" height="321" as="geometry" />
+        </mxCell>
+        <mxCell id="M1K2fpqMYqYAqmjZvtI3-32" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
+          <mxGeometry x="226" y="185" width="368" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="M1K2fpqMYqYAqmjZvtI3-27" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
+          <mxGeometry x="37" y="184" width="182" height="319" as="geometry" />
+        </mxCell>
+        <mxCell id="M1K2fpqMYqYAqmjZvtI3-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="M1K2fpqMYqYAqmjZvtI3-1" target="M1K2fpqMYqYAqmjZvtI3-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M1K2fpqMYqYAqmjZvtI3-1" value="研究方法：主动学习" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="67" y="396" width="142" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1K2fpqMYqYAqmjZvtI3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="M1K2fpqMYqYAqmjZvtI3-2" target="M1K2fpqMYqYAqmjZvtI3-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="404" y="329" />
+              <mxPoint x="404" y="329" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M1K2fpqMYqYAqmjZvtI3-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="M1K2fpqMYqYAqmjZvtI3-2" target="M1K2fpqMYqYAqmjZvtI3-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="424" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="267" y="329" />
+              <mxPoint x="267" y="413" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M1K2fpqMYqYAqmjZvtI3-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="M1K2fpqMYqYAqmjZvtI3-2" target="M1K2fpqMYqYAqmjZvtI3-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="267" y="329" />
+              <mxPoint x="267" y="245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M1K2fpqMYqYAqmjZvtI3-2" value="研究目标：构建在漂移环境下运行的主动学习框架，使模型在有限标注预算下实现长期自适应学习" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="67" y="299" width="142" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1K2fpqMYqYAqmjZvtI3-3" value="时间动态性问题" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="372" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_DLmZ5Hb72gRYXb6KxRc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="M1K2fpqMYqYAqmjZvtI3-6" target="M1K2fpqMYqYAqmjZvtI3-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_DLmZ5Hb72gRYXb6KxRc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="M1K2fpqMYqYAqmjZvtI3-6" target="M1K2fpqMYqYAqmjZvtI3-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_DLmZ5Hb72gRYXb6KxRc-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="M1K2fpqMYqYAqmjZvtI3-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="329" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="568" y="329" />
+              <mxPoint x="568" y="413" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M1K2fpqMYqYAqmjZvtI3-6" value="空间覆盖性问题" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="372" y="299" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1K2fpqMYqYAqmjZvtI3-7" value="分布保持性问题" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="372" y="383" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1K2fpqMYqYAqmjZvtI3-9" value="Split Strategy（分拆战略）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="644" y="383" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1K2fpqMYqYAqmjZvtI3-11" value="Variable Uncertainty Strategy（变阈值不确定性策略）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="644" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1K2fpqMYqYAqmjZvtI3-12" value="Uncertainty Strategy With Randomization（随机化的不确定性策略）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="642" y="299" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1K2fpqMYqYAqmjZvtI3-34" value="研究主题" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="34" y="183" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M1K2fpqMYqYAqmjZvtI3-35" value="研究问题" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="226" y="183" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M1K2fpqMYqYAqmjZvtI3-36" value="具体方法和技术" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="608" y="185" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
