@@ -77,6 +77,9 @@
         <mxCell id="M1K2fpqMYqYAqmjZvtI3-36" value="具体方法和技术" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="608" y="185" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="R2kkq-hZxlqVIjKdjwBu-2" value="状态矩阵S" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="73" y="582" width="74" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
